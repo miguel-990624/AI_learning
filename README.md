@@ -41,9 +41,10 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 | Aspecto                    | Proceso Tradicional              | Solución con IA                         |
 |----------------------------|----------------------------------|-----------------------------------------|
-| Velocidad de respuesta     | Lento                            | Alta, automática                        |
-| Costo operativo            | Alto                             | Bajo, eficiente                         |
-| Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
+| Velocidad de respuesta     | Lento, requiere muchos analisis para encontrar posibles causas                            | Alta, automática y constante                        |
+| Accesibilidad              | Media,requiere disponibilidad deveterinario                           | Media, requiere minimamente camara |
+| Costo operativo            | Alto                             | Medio, eficiente                         |
+| Consistencia de respuestas | Variable                         | Estandar y Personalizada                   |
 | Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo     |
 
 ## 5. Reflexión Personal
